@@ -5,7 +5,7 @@ Only supported languages for white text in GUI: `English`
 
 You can drop the whole .zip file in resourcepacks folder.
 
-## Preview of the Texture Pack https://imgur.com/a/7Bxb7iv #
+## Preview of the Texture Pack https://imgur.com/a/TSg9OJi #
 
 
 
