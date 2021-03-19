@@ -10,7 +10,7 @@ You can drop the whole .zip file in resourcepacks folder.
 
 
 ## Known Issue: #
-Mojang decided to use same `.png` for `barrels/chests/enderchests`. This png is called `generic_54.png`. This creates small issue of those containers not having bottom outline as for those containers `the generic_54.png` gets cut in half. Thanks Mojang <3
+Mojang decided to use same `.png` for `barrels/chests/enderchests`. This png is called `generic_54.png`. This creates small issue of those containers not having bottom outline as for those containers the `generic_54.png` gets cut in half. Thanks Mojang <3
 
 ![alt text](https://i.imgur.com/yVxDKFC.png)
 
